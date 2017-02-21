@@ -1,0 +1,20 @@
+D:\popaa\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.csproj.ResolveComReference.cache
+D:\popaa\PriceScraper\PriceScraper\bin\Debug\PriceScraper.exe
+D:\popaa\PriceScraper\PriceScraper\bin\Debug\PriceScraper.pdb
+D:\popaa\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.exe
+D:\popaa\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.pdb
+E:\vs workspace\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.csproj.ResolveComReference.cache
+E:\vs workspace\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.exe
+E:\vs workspace\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.pdb
+E:\vs workspace\PriceScraper_v2\PriceScraper\PriceScraper\bin\Debug\PriceScraper.exe
+E:\vs workspace\PriceScraper_v2\PriceScraper\PriceScraper\bin\Debug\PriceScraper.pdb
+E:\vs workspace\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.csprojResolveAssemblyReference.cache
+C:\Users\dan.ANDREI\Desktop\PriceScraper_v2\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.csproj.ResolveComReference.cache
+C:\Users\dan.ANDREI\Desktop\PriceScraper_v2\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.exe
+C:\Users\dan.ANDREI\Desktop\PriceScraper_v2\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.pdb
+C:\Users\dan.ANDREI\Desktop\PriceScraper_v2\PriceScraper_v2\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.csprojResolveAssemblyReference.cache
+C:\Users\dan.ANDREI\Desktop\PriceScraper_v2\PriceScraper_v2\PriceScraper\PriceScraper\bin\Debug\PriceScraper.exe
+C:\Users\dan.ANDREI\Desktop\PriceScraper_v2\PriceScraper_v2\PriceScraper\PriceScraper\bin\Debug\PriceScraper.pdb
+E:\git repo\Price Scraper\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.csproj.ResolveComReference.cache
+E:\git repo\Price Scraper\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.exe
+E:\git repo\Price Scraper\PriceScraper\PriceScraper\obj\x86\Debug\PriceScraper.pdb
